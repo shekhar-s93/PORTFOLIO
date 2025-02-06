@@ -99,9 +99,10 @@ a:hover {
 }
 .topHome {
 	position: fixed;
-	bottom: 20px;
-	right: 20px;
+	bottom: 95px;
+	right: 37px;
 	z-index: 5;
+	border-radius: 10px;
 	background: #5887FF;
 }
 .topHome .fa-2x {
@@ -1406,8 +1407,8 @@ ul li:hover .dropdown{
   /* Json Css */
   .json-whatsapp {
 	position: fixed;
-	bottom: 80px;
-	right: 10px;
+	bottom: 20px;
+	right: 20px;
 	width: 60px;
 	height: 60px;
 	z-index: 1000;
